@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Muskan Lalwani 👋
+QA Automation Engineer | Java | Selenium | TestNG
+🌱 Currently learning Automation Testing and SQL
 
-<!--
-**muskaandlalwani/muskaandlalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about software testing and quality assurance
 
-Here are some ideas to get you started:
+🎯 Looking for QA Automation opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+Java
+Selenium WebDriver
+TestNG
+XPath
+Maven
+Git & GitHub
+SQL
+🚀 Projects
+🛒 QKart Automation
+Automated testing of e-commerce workflows using Selenium and TestNG.
+
+🎬 Xflix Testing
+Created automated test cases and validated functionality.
+
+📚 And other projects
+
+
+⭐ Thanks for visiting my profile!
